@@ -87,7 +87,7 @@ Deploy a real-time scoring API
 
 📬 Contact & Links
 
-👤 Your Name
-📧 Email: [your email]
-🔗 LinkedIn: [your LinkedIn]
-🗂 Full report shared on LinkedIn: (if posting)# credit-risk-ml-project
+👤 Jimmy Kane
+📧 Email: jimmy922kane@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/jimmykane122/
+🗂 Full report shared on LinkedIn: 
